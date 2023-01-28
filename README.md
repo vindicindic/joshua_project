@@ -1,4 +1,4 @@
-# Joshua Projecy
+# Joshua Project
 ----
 
 <i>Analysis on data published by the proselytization organization called Joshua Project</i>
