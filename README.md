@@ -14,7 +14,8 @@ spread as a church planting movement," according to the project's website — to
 unreached by Christian evangelism<sup>[1]</sup>.
 
 ### The 10-40 window
-![10_40_window](images/lightsys_1040_poster.jpg)
+<img src="images/lightsys_1040_poster.jpg" width="600">  
+
 "The 10/40 Window is the rectangular area of North Africa, the Middle East and Asia approximately between 10 degrees 
 north and 40 degrees north latitude. The 10/40 Window is often called "The Resistant Belt" and includes the majority 
 of the world's Muslims, Hindus, and Buddhists. The original 10/40 Window included only countries with at least 50% of 
@@ -49,7 +50,8 @@ While more Hindu communities are targeted in general, the evangelical activity i
 might present themselves as 'lower hanging fruits', e.g. Pashmanda Muslims, Buddhists (Dalit converts). Even other 
 Christian sects are calid target groups.
 
-![Target groups](images/target_groups.png)
+![Target groups](images/target_groups.png)  
+
 As can be seen from this graph, almost all groups with 'Unknown' religion (primarily tribal groups) are high targets of
 evangelical activity. Perhaps the most disturbing fact is that even the Sentinelese tribe(s) that has been given a 
 'protected' status by the Government of India<sup><a href="https://pib.gov.in/Pressreleaseshare.aspx?PRID=1562728">
@@ -59,7 +61,8 @@ the missionaries to this mission - you can read this article
 here</a>.
 
 ### 2. Tribal populations are at a great risk of losing their way of life to Jesus
-![\# Workers per 10K population](images/n_workers_per_10k_by_state.png)
+![\# Workers per 10K population](images/n_workers_per_10k_by_state.png)  
+
 Territories such as Arunachal Pradesh, Andaman and Nicobar islands and Ladakh that have large tribal populations making
 them target #1 amongst other population groups. Upon conversion, tribals are coerced into segregating themselves from
 their 'heathen' counterparts, make attempts to look like the white Westerner and give up markers of local identity. 
